@@ -7,4 +7,5 @@ Er Diagram :
 
 DB Design :
 
-![Screenshot 2025-03-01 143740](https://github.com/user-attachments/assets/1ebfab72-e3b4-460a-bb94-44c0cfb4dfcc)
+![Screenshot 2025-03-04 030338](https://github.com/user-attachments/assets/8dc98213-24fd-4fd6-80b7-c436c37c8d6e)
+
