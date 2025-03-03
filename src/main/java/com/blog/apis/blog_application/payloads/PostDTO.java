@@ -4,8 +4,6 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.blog.apis.blog_application.entities.Comment;
-
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import lombok.Getter;
@@ -35,6 +33,6 @@ public class PostDTO {
 
     private UserDTO user;
 
-    private Set<Comment> comments=new HashSet<>();
+    private Set<CommentDTO> comments=new HashSet<>();
 
 }
